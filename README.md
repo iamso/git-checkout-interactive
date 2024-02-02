@@ -5,7 +5,7 @@ Quick switch between git branches.
 ### Install
 
 ```bash
-npm install -g git-checkout-interactive
+npm install -g @iamso/git-checkout-interactive
 ```
 
 ### Usage
