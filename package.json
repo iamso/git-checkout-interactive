@@ -1,6 +1,6 @@
 {
-  "name": "git-checkout-interactive",
-  "version": "1.0.1",
+  "name": "@iamso/git-checkout-interactive",
+  "version": "1.1.0",
   "description": "Quick switch between git branches",
   "author": "Pete Cook",
   "license": "MIT",
@@ -13,5 +13,9 @@
   },
   "dependencies": {
     "prompts": "^2.4.2"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "preferGlobal": true
 }
