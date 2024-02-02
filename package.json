@@ -5,13 +5,13 @@
   "author": "Pete Cook",
   "license": "MIT",
   "engines": {
-    "node": ">=7.6.0"
+    "node": ">=16.0.0"
   },
   "bin": {
     "gci": "index.js",
     "git-interactive-checkout": "index.js"
   },
   "dependencies": {
-    "prompts": "^2.0.4"
+    "prompts": "^2.4.2"
   }
 }
